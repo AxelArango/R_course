@@ -1,0 +1,225 @@
+"flagCode","country","InternetSpeeds_MeanDownloadSpeed_Mbps_2024","InternetSpeeds_MedianFixedBroadbandDownloadSpeed_Mbps_2024","InternetSpeeds_MedianMobileDownloadSpeed_Mbps_2024"
+"IS","Iceland",279.55,213.98,
+"JE","Jersey",273.51,,
+"MO","Macau",234.74,162.24,
+"LI","Liechtenstein",222.98,186.36,
+"DK","Denmark",210.51,219.23,130.05
+"AD","Andorra",199.89,,
+"NL","Netherlands",188.49,186.84,133.44
+"GI","Gibraltar",180.91,,
+"FR","France",176.97,223.72,103.08
+"MC","Monaco",173.79,,
+"KR","South Korea",172.53,157.63,141.23
+"US","United States",161.97,242.27,103.26
+"CH","Switzerland",161.88,203.5,93.66
+"SE","Sweden",156.42,138.62,97.24
+"UY","Uruguay",156.42,156.02,
+"IL","Israel",153.61,206.42,42.77
+"CA","Canada",152.25,188.2,74.87
+"ES","Spain",148.63,205.17,45.74
+"SK","Slovakia",145.19,81.08,54.82
+"SM","San Marino",143.2,94.78,
+"MT","Malta",141.07,116.51,
+"NO","Norway",140.56,129,128.77
+"JP","Japan",139.53,197.78,47.43
+"HK","Hong Kong",138.18,280,57.68
+"TW","Taiwan",136.58,198.28,85.93
+"SG","Singapore",134.43,297.57,114.3
+"BE","Belgium",124.78,100.82,81.99
+"NZ","New Zealand",124.01,178.8,78.64
+"KY","Cayman Islands",118.83,,
+"PR","Puerto Rico",118.54,,
+"PT","Portugal",116.91,172.13,83.64
+"IM","Isle of Man",116.58,,
+"EE","Estonia",113.1,80.14,88.6
+"HU","Hungary",112.15,174.95,54.32
+"GB","United Kingdom",110.99,108.61,54.62
+"LT","Lithuania",110.74,119.59,89.71
+"BM","Bermuda",107.4,,
+"RO","Romania",105.46,200.94,63.12
+"PL","Poland",104.36,154.51,52.62
+"IE","Ireland",102.96,133.34,41.12
+"QA","Qatar",101.72,173.33,344.34
+"CL","Chile",100.66,265.62,41.44
+"AE","United Arab Emirates",99.26,297.62,398.51
+"BB","Barbados",97.27,99.09,
+"LV","Latvia",95.5,92.62,81.42
+"FI","Finland",95.13,114.33,93.59
+"BR","Brazil",92.83,170.42,73.08
+"SI","Slovenia",90.4,92.98,69.65
+"DE","Germany",87.77,90.63,56.69
+"RS","Serbia",86.36,82.28,56.48
+"VI","United States Virgin Islands",83.51,,
+"MY","Malaysia",82.38,131.03,106.94
+"VG","British Virgin Islands",79.26,,
+"MK","North Macedonia",79.09,42.26,94.33
+"AU","Australia",77.99,71.87,97.86
+"LU","Luxembourg",76.64,142.05,114.42
+"GG","Guernsey",75.63,,
+"CZ","Czech Republic",74.41,69.55,85.41
+"ME","Montenegro",73.93,61.13,43.68
+"MD","Moldova",73.84,120.73,49.71
+"GR","Greece",72.54,47.03,75.05
+"GD","Grenada",72.49,,
+"IT","Italy",72.45,78.42,53.48
+"BS","Bahamas",72.34,63.11,
+"KN","Saint Kitts and Nevis",71.96,,
+"TH","Thailand",67.75,232.15,54.78
+"BG","Bulgaria",67.47,77.6,117.64
+"RU","Russia",67.43,88.08,25.44
+"BH","Bahrain",67.16,84.66,113.07
+"AW","Aruba",67.06,,
+"TT","Trinidad and Tobago",66.43,119.78,
+"IN","India",65.51,63.79,96.38
+"AT","Austria",64.96,92.86,83.01
+"RE","Reunion",63.29,,
+"PE","Peru",63.28,166.89,21.73
+"BN","Brunei",62.61,77.75,103.08
+"PA","Panama",62.43,151.94,21.79
+"JM","Jamaica",62.13,76.44,
+"AR","Argentina",59.7,88.03,34.47
+"KW","Kuwait",58.89,188.29,239.83
+"OM","Oman",57.85,72.64,82.81
+"LC","Saint Lucia",56.84,94.01,
+"FO","Faroe Islands",56.61,,
+"PM","Saint Pierre and Miquelon",56.61,,
+"MF","Saint Martin",56,,
+"GP","Guadeloupe",55.28,,
+"CO","Colombia",53.87,144.98,18.18
+"CR","Costa Rica",53.39,96.65,37.4
+"PH","Philippines",52.07,94.43,33.66
+"TC","Turks and Caicos Islands",51.82,,
+"VA","Vatican City",51.6,,
+"CY","Cyprus",51.53,86.1,73.59
+"BL","Saint Barthelemy",51.11,,
+"NC","New Caledonia",50.61,,
+"CW","Curacao",49.61,,
+"UA","Ukraine",49.39,81.84,20.07
+"AI","Anguilla",49.23,,
+"MQ","Martinique",48.54,,
+"DO","Dominican Republic",48.05,36.1,32.99
+"DM","Dominica",47.9,93.74,
+"MS","Montserrat",46.34,,
+"VN","Vietnam",45.92,151.69,56.95
+"BY","Belarus",45.81,61.05,11.98
+"EC","Ecuador",45.54,93.79,28.76
+"BA","Bosnia and Herzegovina",45.51,30.74,20.56
+"PY","Paraguay",45.1,92.67,19.58
+"MX","Mexico",44.73,79.31,32.55
+"GL","Greenland",42.69,,
+"GF","French Guiana",42.68,,
+"JO","Jordan",42.46,150.88,28.67
+"ZA","South Africa",42.42,47.35,51.96
+"BZ","Belize",41.72,44.74,
+"SA","Saudi Arabia",37.65,112.24,122.28
+"CN","China",37.56,189.49,108.37
+"GT","Guatemala",37.34,52.32,39.73
+"SZ","Eswatini",37.23,,
+"GU","Guam",36.4,,
+"SV","El Salvador",35.9,55.77,32.63
+"NI","Nicaragua",33.85,59.51,21.49
+"AG","Antigua and Barbuda",32.98,40.58,
+"TR","Turkey",32.89,42.9,46.37
+"RW","Rwanda",32.69,30.5,
+"MU","Mauritius",31.12,51.61,
+"AL","Albania",29.87,62.71,50.82
+"MP","Northern Mariana Islands",29.8,,
+"BW","Botswana",29.52,8.53,
+"GY","Guyana",28.57,90.78,
+"NG","Nigeria",27.62,21.59,20.19
+"MV","Maldives",27.26,13.27,
+"MH","Marshall Islands",26.84,,
+"AM","Armenia",26.78,56.54,32.67
+"NP","Nepal",25.97,71.62,
+"KH","Cambodia",25.54,45.52,28.7
+"PS","Palestine",25.5,68.16,
+"LA","Laos",25.14,38.8,28.85
+"VE","Venezuela",23.33,59.81,13.67
+"MG","Madagascar",22.57,27.41,
+"HN","Honduras",21.77,50.52,32.59
+"BT","Bhutan",21.24,,
+"UZ","Uzbekistan",21.21,69.37,36.19
+"GE","Georgia",20.83,34.4,36.9
+"LS","Lesotho",20.71,,
+"BO","Bolivia",20.14,42.45,11.26
+"SC","Seychelles",20.09,,
+"MA","Morocco",19.61,29.57,40.89
+"ID","Indonesia",19.54,32.06,29.4
+"MN","Mongolia",19.14,71.45,
+"LK","Sri Lanka",18.45,22.94,18.96
+"SX","Sint Maarten",18.17,,
+"WS","Samoa",17.82,,
+"CI","Ivory Coast",17.67,62.04,
+"ST","Sao Tome and Principe",17.45,,
+"ZW","Zimbabwe",16.77,21.81,
+"GH","Ghana",16.59,37.8,
+"CG","Republic of the Congo",16.25,35.94,
+"AS","American Samoa",16.17,,
+"BF","Burkina Faso",15.91,45.8,
+"BJ","Benin",15.54,22.48,
+"PG","Papua New Guinea",15.52,,
+"GA","Gabon",14.85,41.42,
+"YT","Mayotte",14.5,,
+"MZ","Mozambique",14.15,16.48,
+"PF","French Polynesia",14.15,,
+"KZ","Kazakhstan",13.92,58.81,51.25
+"AZ","Azerbaijan",13.85,45.47,55.14
+"SR","Suriname",13.79,12.09,50.02
+"KE","Kenya",13.69,11.59,29.49
+"UG","Uganda",13.59,17.09,
+"MM","Myanmar",13.28,21.56,32.16
+"FJ","Fiji",13.28,26.36,
+"TZ","Tanzania",13.26,18.61,22.85
+"HT","Haiti",13.21,41.57,
+"MW","Malawi",13.14,,
+"CD","DR Congo",12.81,38.03,
+"AO","Angola",12.79,18.58,
+"EG","Egypt",12.64,76.48,25.65
+"LR","Liberia",12.45,8.9,
+"DZ","Algeria",12.35,14.26,24.9
+"SN","Senegal",12.16,21.65,
+"SB","Solomon Islands",11.54,,
+"NA","Namibia",11.48,14.73,27.94
+"CV","Cape Verde",11.44,10.7,
+"TN","Tunisia",11.18,10.58,26.53
+"KG","Kyrgyzstan",11.18,65.44,42.82
+"MR","Mauritania",10.94,19.3,
+"TG","Togo",10.54,30.68,
+"TD","Chad",10.47,,
+"IQ","Iraq",10.39,33.35,32.93
+"PW","Palau",10.01,,
+"IR","Iran",9.72,14.81,36.7
+"LB","Lebanon",9.67,17.38,35.45
+"BD","Bangladesh",9.22,48.14,27.76
+"ZM","Zambia",8.99,18.2,
+"GN","Guinea",8.55,9.35,
+"KM","Comoros",8.38,,
+"LY","Libya",8.37,11.1,15.1
+"CM","Cameroon",7.97,9.94,
+"PK","Pakistan",7.85,15.52,19.59
+"VU","Vanuatu",7.67,,
+"ML","Mali",7.66,,
+"SS","South Sudan",7.47,,
+"SL","Sierra Leone",7.24,24.72,
+"DJ","Djibouti",7.21,17.08,
+"SO","Somalia",6.64,16.76,
+"BI","Burundi",6.07,,
+"TL","Timor-Leste",6,,
+"GW","Guinea-Bissau",5.63,,
+"FK","Falkland Islands",5.34,,
+"GM","Gambia",5.33,,
+"FM","Micronesia",5.32,,
+"GQ","Equatorial Guinea",5.27,,
+"NE","Niger",4.97,,
+"WF","Wallis and Futuna",4.66,,
+"ER","Eritrea",4.61,,
+"CU","Cuba",4.49,,
+"ET","Ethiopia",4.45,9.48,
+"CF","Central African Republic",4.08,,
+"SD","Sudan",4.02,,
+"AF","Afghanistan",3.11,3.63,8.48
+"TJ","Tajikistan",3.1,29.26,
+"YE","Yemen",2.99,7.54,7.91
+"SY","Syria",2.8,3.65,12.79
+"TM","Turkmenistan",2.72,3.53,
+"HR","Croatia",,50.69,76.24
