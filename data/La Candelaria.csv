@@ -1,0 +1,60 @@
+pos.general,pos.categoria,numero,nombres,categoria,estado,tiempo,localidad_origen
+25,22,490,Daniel Eduardo,Masculino,Finalizado,1:24:34,Los Martires
+36,32,531,Andrés Felipe,Masculino,Finalizado,1:26:38,Los Martires
+45,41,1774,Alexander,Masculino,Finalizado,1:28:07,Los Martires
+48,44,1304,Francisco,Masculino,Finalizado,1:28:40,Los Martires
+57,53,1528,Wilmar Efren,Masculino,Finalizado,1:30:08,Los Martires
+80,75,1675,Andres,Masculino,Finalizado,1:33:02,Los Martires
+81,76,1638,Juan Sebastián,Masculino,Finalizado,1:33:08,Los Martires
+87,82,1183,Jaime Alberto,Masculino,Finalizado,1:33:36,Los Martires
+93,88,331,Hector Mauricio,Masculino,Finalizado,1:34:10,Los Martires
+111,105,274,Cristian Alejandro,Masculino,Finalizado,1:35:35,Los Martires
+125,118,1029,Julian,Masculino,Finalizado,1:37:06,Los Martires
+163,155,883,Alexander,Masculino,Finalizado,1:39:42,Los Martires
+172,163,1682,José Mauricio,Masculino,Finalizado,1:40:27,Los Martires
+234,218,1537,Wiliam Alberto,Masculino,Finalizado,1:45:49,Los Martires
+244,228,537,Carlos Adrián,Masculino,Finalizado,1:46:09,Los Martires
+246,230,1431,Jorge Armando,Masculino,Finalizado,1:46:16,Los Martires
+253,237,366,David Camilo,Masculino,Finalizado,1:46:29,Los Martires
+270,249,1422,Oscar Fernando,Masculino,Finalizado,1:47:10,Los Martires
+285,262,9,Diego Mauricio,Masculino,Finalizado,1:48:23,Los Martires
+298,273,247,Carlos Enrique,Masculino,Finalizado,1:49:15,Los Martires
+313,286,434,Nelson Ricardo,Masculino,Finalizado,1:50:14,Los Martires
+317,290,855,Freddy,Masculino,Finalizado,1:50:52,Los Martires
+325,296,70,Jonathan,Masculino,Finalizado,1:51:13,Los Martires
+342,309,1749,Danilo,Masculino,Finalizado,1:52:10,Los Martires
+364,325,1385,Paulo,Masculino,Finalizado,1:53:40,Los Martires
+367,328,321,Ivan Guillermo,Masculino,Finalizado,1:53:49,Los Martires
+382,341,393,Camilo Eduardo,Masculino,Finalizado,1:55:19,Los Martires
+385,343,1348,David Alberto,Masculino,Finalizado,1:55:38,Los Martires
+426,377,1799,Salvador,Masculino,Finalizado,1:59:08,Los Martires
+463,405,973,Julián,Masculino,Finalizado,2:01:17,Los Martires
+495,64,1103,Yuly Paola,Femenino,Finalizado,2:03:22,Los Martires
+514,445,1629,Jaime Andres,Masculino,Finalizado,2:04:12,Los Martires
+524,72,1442,Maira Alejandra,Femenino,Finalizado,2:04:27,Los Martires
+528,455,1082,Nolberto,Masculino,Finalizado,2:04:35,Los Martires
+570,483,3,Faber,Masculino,Finalizado,2:07:52,Los Martires
+577,92,1197,Sonia,Femenino,Finalizado,2:08:17,Los Martires
+589,99,1473,Yudy,Femenino,Finalizado,2:08:52,Los Martires
+591,100,1066,Verónica,Femenino,Finalizado,2:08:53,Los Martires
+599,495,465,William Ricardo,Masculino,Finalizado,2:09:18,Los Martires
+620,511,1524,Jesus Andres,Masculino,Finalizado,2:10:14,Los Martires
+631,519,1245,Walter William,Masculino,Finalizado,2:10:30,Los Martires
+660,541,85,Pablo Andres,Masculino,Finalizado,2:12:36,Los Martires
+694,131,188,Karen Dayana,Femenino,Finalizado,2:15:14,Los Martires
+720,576,1922,Cristian David,Masculino,Finalizado,2:18:12,Los Martires
+754,159,957,Angela Andrea,Femenino,Finalizado,2:21:36,Los Martires
+763,599,573,Harry Fernando,Masculino,Finalizado,2:23:06,Los Martires
+767,166,748,Jimena,Femenino,Finalizado,2:23:27,Los Martires
+768,602,401,Jorge Iván,Masculino,Finalizado,2:23:33,Los Martires
+808,186,110,Claudia Marcela,Femenino,Finalizado,2:28:18,Los Martires
+828,197,1563,Dayhana Alejandra,Femenino,Finalizado,2:33:03,Los Martires
+833,201,1778,Sandra Milena,Femenino,Finalizado,2:34:03,Los Martires
+838,637,17,William Andres,Masculino,Finalizado,2:34:56,Los Martires
+854,208,299,Valentina,Femenino,Finalizado,2:38:03,Los Martires
+880,225,1769,Diana Yaneth,Femenino,Finalizado,2:45:41,Los Martires
+913,244,358,Diana Marcela,Femenino,Finalizado,4:19:46,Los Martires
+DNS,DNS,1653,Juan David,Masculino,Sin salida,DNS,Los Martires
+DNS,DNS,51,Beyggitte Vanessa,Femenino,Sin salida,DNS,Los Martires
+DNS,DNS,1820,Jorge,Masculino,Sin salida,DNS,Los Martires
+DQ,DQ,480,María Cristina,Femenino,Descalificado,DQ,Los Martires
